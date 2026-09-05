@@ -1,4 +1,4 @@
-Apple Retail Sales Analytics # Apple Retail Sales Analytics 
+# Apple Retail Sales Analytics 
 
 An analytics project on Apple's retail sales data (2020–2024) using SQL for analysis, Power BI for interactive visualization, and Microsoft Excel for sales forecasting.
 
